@@ -1,3 +1,7 @@
+[![make.fun competition](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/afgcdfhvcfghvc-hub/makefun-news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/afgcdfhvcfghvc-hub/makefun-news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121)
+
 # The World Today — Saturday, 21 November 2026
 
 Entry for make.fun's **news-image-20261121** competition ("Sum up 21 November's
